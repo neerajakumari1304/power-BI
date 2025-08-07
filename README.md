@@ -22,7 +22,7 @@ Power BI visualizations are graphical representations of data. They allow users 
 
 ![App Screenshot](https://cdn.analyticsvidhya.com/wp-content/uploads/2023/12/Screenshot-2023-12-07-at-4.43.44-PM.png)
 
-##  BAR CHARTS
+## * BAR CHARTS
 
 A bar chart (also known as a bar graph) is a widely used data visualization tool that displays categorical data using rectangular bars. The length or height of each bar is proportional to the value it represents.Bars can be vertical (column chart) or horizontal, depending on the layout and readability needs.
 
@@ -54,7 +54,7 @@ There are different types of bar charts :
 
 ![Logo](https://community.fabric.microsoft.com/t5/image/serverpage/image-id/868981i6B4B97F0C0C68BB6/image-size/medium?v=v2&px=400)
 
-## MAPS
+## * MAPS
 
 Map view refers to a visual representation of geographic data, typically displayed as a map interface. It allows users to explore spatial relationships, locations, and patterns using various layers like roads, terrain, satellite imagery, and more.
 
@@ -78,7 +78,7 @@ There are different types of maps
 
 ![Logo](https://learn.microsoft.com/en-us/azure/azure-maps/media/power-bi-visual/bubble-layer-no-legend.png#lightbox)
 
-## CARD
+## * CARD
 
 A Card visual in Power BI is a simple yet powerful tool used to display key metrics—typically a single number or value—clearly and prominently. It’s ideal for showcasing figures like total sales, profit, number of orders, or any other high-level KPI.
 
