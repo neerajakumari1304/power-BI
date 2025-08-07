@@ -48,13 +48,13 @@ There are different types of bar charts :
 
 Map view refers to a visual representation of geographic data, typically displayed as a map interface. It allows users to explore spatial relationships, locations, and patterns using various layers like roads, terrain, satellite imagery, and more.
 
-![Logo](https://www.sqlshack.com/wp-content/uploads/2019/06/power-bi-bubble-map.png)
+![Logo](https://res.cloudinary.com/hevo/images/f_webp,q_auto:best/v1685932121/hevo-learn-1/Power-BI-Mapping-Bubble-Maps/Power-BI-Mapping-Bubble-Maps.png?_i=AA)
 
 There are different types of maps
 
 1.Basic Map : Plots data points using latitude and longitude. Ideal for pinpointing cities or locations.
 
-![Logo](https://www.sqlshack.com/wp-content/uploads/2019/06/bubble-map.png)
+![Logo](https://www.acuitytraining.co.uk/wp-content/uploads/2021/11/Untitled-122.png.webp)
 
 2.Filled Map : Colors entire regions (like countries or states) based on data values. Great for comparing regions.
 
