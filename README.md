@@ -6,6 +6,16 @@ Power BI is a business analytics tool by Microsoft that enables users to visuali
 
 Power BI was officially released by Microsoft on July 11, 2011. Since then, it has evolved into one of the most powerful business intelligence platforms available, widely used for data visualization, reporting, and analytics.
 
+## Uses of Power BI
+1. Data Visualization
+2. Business Reporting
+3. Real-Time Analytics
+4. Data Modeling & Transformation
+5. Collaboration & Sharing
+6. AI-Powered Insights
+7. Embedded Analytics
+8. Mobile Access
+
 ## Visualizations
 
 Power BI visualizations are graphical representations of data. They allow users to explore trends, compare metrics, and uncover insights through charts, maps, and other visual formats.
