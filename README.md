@@ -67,3 +67,16 @@ There are different types of maps
 4.Azure Maps : Integrates with Azure services to provide real-time traffic, weather, and route-based visualizations.
 
 ![Logo](https://learn.microsoft.com/en-us/azure/azure-maps/media/power-bi-visual/bubble-layer-no-legend.png#lightbox)
+
+## CARD
+
+A Card visual in Power BI is a simple yet powerful tool used to display key metrics—typically a single number or value—clearly and prominently. It’s ideal for showcasing figures like total sales, profit, number of orders, or any other high-level KPI.
+
+![Logo](https://datavibe.co.uk/wp-content/uploads/2023/06/New_card-1024x574.gif)
+
+## Types of Card Visuals
+Single Value Card - Displays one key metric.
+
+Multi-Row Card - Shows multiple related values in a compact format.
+
+KPI Card - Compares a current value against a target, often with trend indicators.
